@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 Young Developer passionate about creating digital solutions<br>
-🌱 Currently diving deep into Next.js and Flask<br>
+🌱 Currently diving deep into Laravel and Flask<br>
 💻 Love to code in Python, C#, and JavaScript<br>
 🎯 Always eager to learn and try new technologies
 
@@ -9,7 +9,8 @@
 
 
 # 🛠 Frameworks:
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask&logoColor=white)
+
 
 ```python
 def holy_g():
