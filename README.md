@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 Young Developer passionate about creating digital solutions<br>
 🌱 Currently diving deep into Laravel and Flask<br>
-💻 Love to code in Python, C#, and JavaScript<br>
+💻 Love to code in PHP, C#, and JavaScript<br>
 🎯 Always eager to learn and try new technologies
 
 # 💻 Tech Stack:
