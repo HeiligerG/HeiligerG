@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemFuZ2I0ZzdkYjF4cmtrazRrNHo0YTU2OGFwNnl5YXRrdDIyNzQ4byZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" width="30px"> Hi, ich bin HolyG
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fe428e&random=false&width=435&lines=Passionate+PHP+%26+Laravel+Developer;Tailwind+%26+Vite+Enthusiast;HomeLab+Proxmox VE+Dreamer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fe428e&random=false&width=435&lines=Passionate+PHP+%26+Laravel+Developer;Tailwind+%26+Vite+Enthusiast;HomeLab+ProxmoxVE+Dreamer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ## Über mich
