@@ -70,8 +70,8 @@
   </div>
 </section>
 <div id="tech-stack">
-
 </div>
+
 <!-- Tech Stack Section -->
 ## My Tech Stack
 
