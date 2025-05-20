@@ -151,7 +151,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeiligerG&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
     </div>
     <div style="margin-bottom: 20px;">
-      <h3 style="color: #38B2AC;">GitHub Achievement</h3>
+      <h3 style="color: #38B2AC;">GitHub Achievements</h3>
     <div align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=HeiligerG&column=5&margin-w=15&margin-h=15&theme=radical&no-frame=true" alt="GitHub Trophies" />
     </div>
