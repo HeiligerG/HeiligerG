@@ -27,7 +27,7 @@
 <div align="center" style="background: linear-gradient(to right, #8A2BE2, #FF2D20); padding: 30px; border-radius: 10px; margin-bottom: 30px;">
   <h1 style="color: white; font-size: 2.5em;">Welcome to my coding world!</h1>
   <p style="color: white; font-size: 1.2em;">Apprentice application developer | Coffee lover | Tech Enthusiast</p>
-  <img src="https://komarev.com/ghpvc/?username=HeiligerG&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HeiligerG&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </div>
 
 <!-- About Section -->
