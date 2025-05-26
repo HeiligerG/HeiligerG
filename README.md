@@ -168,6 +168,19 @@
   </div>
 </section>
 
+<!-- Learning Section -->
+<section>
+  <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
+    <h2 style="color: #777BB4; border-bottom: 2px solid #777BB4; padding-bottom: 10px;">Learning</h2>
+    <div align="center">
+      <a href="https://quizlet.com/user/HeiligerGG/folders">
+        <img src="https://img.shields.io/badge/Quizlet-%23007ACC.svg?style=for-the-badge&logo=Quizlet&logoColor=white" alt="Quizlet" />
+      </a>
+      &nbsp;&nbsp;
+    </div>
+  </div>
+</section>
+
 <!-- Contact Section -->
 <section id="contact">
   <div style="background-color: #0d1117; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
